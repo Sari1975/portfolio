@@ -1,5 +1,5 @@
 ---
-title: Don't stop
+title: Stop
 date: "2019-05-07"
 thumbnail: ./ian-dooley-298769-unsplash.jpg
 description: Pink is my favourite colour. I used to say my favourite colour was black to be cool, but it is pink - all shades of pink. If I have an accessory, it is probably pink.
